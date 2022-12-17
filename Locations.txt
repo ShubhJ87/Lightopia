@@ -1,2 +1,4 @@
 London 
 Manchester
+Brussels
+Scotland
